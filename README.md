@@ -6,12 +6,12 @@
 
 
 
-# FRONT-END
+## FRONT-END
 
 - View.js와 bootstrap, JQuery는 이미 있는 것을 가져옴
 
 
-# BACK-END
+## BACK-END
 
 - DB
 
@@ -33,7 +33,10 @@
 5. 네이버API와 MemoryDB를 연동
 
 
-# 실행결과
+## 실행결과
+![image](https://user-images.githubusercontent.com/86394597/154511337-29476335-8f75-400a-bae5-9afa71a47ca8.png)
+![image (1)](https://user-images.githubusercontent.com/86394597/154511343-94df7b84-36e3-437c-ac88-b24ebe2a18aa.png)
+
 
 https://blog.naver.com/tkddjsdl33/222649616068
 https://blog.naver.com/tkddjsdl33/222650546364
