@@ -15,7 +15,7 @@
 
 - DB
 
-데이터베이스를 흉내낸 CRUD ArrayList DB
+- 데이터베이스를 흉내낸 CRUD ArrayList DB
 
 - API 디자인
 
